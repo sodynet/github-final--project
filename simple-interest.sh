@@ -4,9 +4,9 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Upkar Lidder (IBM)
+   # Author: SETH (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # <sodynet>
 
    # Input:
    # p, principal amount
